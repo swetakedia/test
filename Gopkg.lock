@@ -625,7 +625,7 @@
 [[projects]]
   branch = "master"
   digest = "1:8234b16ee9deb574008f7ee4d571533571a06669ac3fd0475ecd467f69a980f1"
-  name = "github.com/test/go-xdr"
+  name = "github.com/swetakedia/go-xdr"
   packages = ["xdr3"]
   pruneopts = "T"
   revision = "0bc96f33a18ef2f963e75431dbed042129eb421b"
@@ -909,7 +909,7 @@
     "github.com/sirupsen/logrus/hooks/test",
     "github.com/spf13/cobra",
     "github.com/spf13/viper",
-    "github.com/test/go-xdr/xdr3",
+    "github.com/swetakedia/go-xdr/xdr3",
     "github.com/stretchr/testify/assert",
     "github.com/stretchr/testify/mock",
     "github.com/stretchr/testify/require",
